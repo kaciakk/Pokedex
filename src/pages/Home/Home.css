@@ -1,0 +1,14 @@
+.pokemons{
+    display: flex;
+    flex-direction: column  ;
+}
+.pokemons-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+.pokemons-btn{
+    display: flex;
+    margin: auto;
+}

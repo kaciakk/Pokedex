@@ -1,0 +1,9 @@
+.pokemon-tile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pokemon-tile img{
+    width: 150px;
+    height: 150px;
+}
